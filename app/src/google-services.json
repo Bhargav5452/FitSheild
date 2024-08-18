@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "825546394699",
+    "project_id": "fitsheild-af094",
+    "storage_bucket": "fitsheild-af094.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825546394699:android:cd81c7df293fe66e2651ce",
+        "android_client_info": {
+          "package_name": "com.example.fitsheild"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALQjySkkpRprReIMDgr-eKWHrUzVOsI2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
